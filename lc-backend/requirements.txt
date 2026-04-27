@@ -1,0 +1,15 @@
+supabase
+Django>=4.0
+celery
+redis
+datetime
+python-decouple
+stripe
+dj_database_url
+djangorestframework
+django-cors-headers
+appwrite
+uuid
+psycopg2-binary
+schedule
+gunicorn
